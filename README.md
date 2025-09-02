@@ -1,2 +1,2 @@
-This was my first time making a website and even though it not really perfect its mine! and i actually liked learning how to use the code and how the way that you code certain things places certain areas 
-I also really like learning how to use the style.css flie and how you can add certain styles there 
+This was my first time making a website and even though it not really perfect its mine despite being able to code and have attened blackgirlscoding in the pass and other coding programs its nice to get back inoto the flow of coding! and i actually liked learning how to use the code and how the way that you code certain things places certain areas 
+I also really like learning how to use the style.css flie and how you can add certain styles there,
